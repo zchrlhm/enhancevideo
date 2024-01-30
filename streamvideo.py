@@ -1,7 +1,6 @@
 import streamlit as st
 from PIL import Image, ImageEnhance
-from moviepy.editor 
-import VideoFileClip
+from moviepy.editor import VideoFileClip
 import numpy as np
 from io import BytesIO
 
